@@ -1,1 +1,1 @@
-move file from one directory to another directory
+Delete the file betty
