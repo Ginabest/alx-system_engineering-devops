@@ -1,1 +1,1 @@
-creates a directory names my first directory inside tmp directory
+move file from one directory to another directory
