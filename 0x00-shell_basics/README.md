@@ -1,1 +1,1 @@
-change from working directory to previous directory
+list all
