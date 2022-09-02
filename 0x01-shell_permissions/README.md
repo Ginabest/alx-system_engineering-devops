@@ -1,1 +1,1 @@
-To switch user
+Print username of current user
