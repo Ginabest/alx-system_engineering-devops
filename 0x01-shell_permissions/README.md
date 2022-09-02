@@ -1,1 +1,1 @@
-Print all lists current user belong to
+Changes the owner of file to another user
