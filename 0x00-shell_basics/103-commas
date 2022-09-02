@@ -1,2 +1,2 @@
 #!/bin/bash
-man ls read -a, -m, -p
+man ls -a, -m, -p
