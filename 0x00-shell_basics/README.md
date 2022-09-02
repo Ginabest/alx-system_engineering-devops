@@ -1,1 +1,1 @@
-Move files beginning with uppercase
+Deletes all files in the current directory
