@@ -1,1 +1,1 @@
-Print username of current user
+Print all lists current user belong to
