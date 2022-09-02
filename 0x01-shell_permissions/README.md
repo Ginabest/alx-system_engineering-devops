@@ -1,1 +1,1 @@
-To add excution command to  hello
+Multiple permissions
