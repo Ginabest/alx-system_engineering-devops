@@ -1,1 +1,1 @@
-Script that prints Hello, World
+Display the content of /etc/psswd
