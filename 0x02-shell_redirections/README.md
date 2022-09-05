@@ -1,1 +1,1 @@
-Display a confused smiley
+Display the third line of a file
