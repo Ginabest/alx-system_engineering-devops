@@ -1,1 +1,1 @@
-Creates a file with content
+Standard  output
