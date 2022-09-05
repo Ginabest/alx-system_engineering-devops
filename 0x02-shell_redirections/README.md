@@ -1,1 +1,1 @@
-Display the last ten lines of /etc/passwd
+Display the first ten lines of /etc/passwd
