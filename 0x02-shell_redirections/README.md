@@ -1,1 +1,1 @@
-Deletes all regular file in file .js
+Create a file
