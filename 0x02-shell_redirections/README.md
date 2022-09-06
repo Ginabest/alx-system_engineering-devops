@@ -1,1 +1,2 @@
-Delete all .js file
+Dispaly directories and subdirectories
+
