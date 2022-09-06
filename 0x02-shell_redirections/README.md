@@ -1,1 +1,1 @@
-Create a file
+Delete all .js file
