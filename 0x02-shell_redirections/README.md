@@ -1,1 +1,1 @@
-Standard  output
+Duplicates the last line
