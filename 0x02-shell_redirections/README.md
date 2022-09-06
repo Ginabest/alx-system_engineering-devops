@@ -1,1 +1,1 @@
-Duplicates the last line
+Deletes all regular file in file .js
