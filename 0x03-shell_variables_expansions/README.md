@@ -1,1 +1,1 @@
-Display environment variables
+Display all environment variables including functions
