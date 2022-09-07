@@ -1,1 +1,1 @@
-Creates alias
+Prints hello user in the current directory
