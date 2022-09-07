@@ -1,1 +1,1 @@
-Prints the result of POWER and DIVIDE
+Prints the result of BREATH to LOVE
