@@ -1,2 +1,2 @@
-Dispaly the 10 newest lines in a file in the current directories
+Lists words that apply only once
 
