@@ -1,1 +1,1 @@
-prints addition of 128 in environment variable TRUEKNOWLEDGE
+Prints the result of POWER and DIVIDE
