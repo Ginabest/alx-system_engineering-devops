@@ -1,2 +1,2 @@
-Displays lines containing "root"
+Displays lines containing "bin"
 
