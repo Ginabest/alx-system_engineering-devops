@@ -1,2 +1,2 @@
-Replace A AND c with Z and e
+Removes letters c and C from input
 
