@@ -1,1 +1,1 @@
-prints all letters combinations except oo
+Prints numbers with decimal
