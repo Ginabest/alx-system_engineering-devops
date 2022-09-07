@@ -1,1 +1,1 @@
-Prints the result of BREATH to LOVE
+Converts number from base 2 to base 10
