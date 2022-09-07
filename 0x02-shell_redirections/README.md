@@ -1,2 +1,2 @@
-Removes letters c and C from input
+To reverse input
 
