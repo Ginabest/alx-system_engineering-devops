@@ -1,1 +1,1 @@
-Display all environment variables including functions
+Create a locaal variable
