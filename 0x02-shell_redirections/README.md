@@ -1,2 +1,2 @@
-Displays lines in /etc/passwd except "bin"
+Replace A AND c with Z and e
 
