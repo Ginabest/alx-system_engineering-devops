@@ -1,2 +1,2 @@
-Lists words that apply only once
+Displays lines containing "root"
 
